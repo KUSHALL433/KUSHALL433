@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KUSHALL433
 - 👀 I’m interested in Full stack Development,ML,AI and Data Science
-- 🌱 I’m currently learning HTML5,CCS3, JAVASCRIPT,THREE.JS And PYTHON
-- 💞️ I’m looking to collaborate on web development
+- 💞️ I’m looking to collaborate on app development Data analysis and Data Science
 - 📫  to reach me contact kushallsharma433@gmail.com
 
 <!---
